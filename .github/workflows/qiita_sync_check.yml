@@ -2,7 +2,7 @@ name: Qiita Sync Check
 
 on:
   schedule:
-    - cron: "29 17 * * *"
+    - cron: "00 16 * * *"
   workflow_run:
     workflows: ["Qiita Sync"]
     types:
