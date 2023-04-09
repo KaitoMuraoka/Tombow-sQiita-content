@@ -1,7 +1,7 @@
 # Tombow's Qiita Repo
 ![Qiita Sync](https://github.com/KaitoMuraoka/Tombow-sQiita-content/actions/workflows/qiita_sync_check.yml/badge.svg)
 
-[とんとんぼ]()のQiita記事を管理しているリポジトリです。
+[とんとんぼ](https://twitter.com/Ktombow1110)のQiita記事を管理しているリポジトリです。
 
 ## 記事に関する質問・疑問について
 記事に関する質問や疑問は、Qiita記事のコメントでお願いします。
